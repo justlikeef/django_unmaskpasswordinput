@@ -1,0 +1,1 @@
+from django_unmaskpasswordinput.forms.widgets import UnmaskPasswordInput
